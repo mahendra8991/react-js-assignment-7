@@ -26,7 +26,7 @@ import {
   NotFoundContainer,
   Heading,
   Desc,
-} from './styledComponents'
+} from './StyledComponents'
 
 class SavedVideosRoute extends Component {
   renderSavedVideos = () => (

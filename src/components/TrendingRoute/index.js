@@ -28,7 +28,7 @@ import {
   Desc,
   NavLinkTwo,
   Retry,
-} from './styledComponents'
+} from './StyledComponents'
 
 const apiStatusConstants = {
   initial: 'INITIAL',

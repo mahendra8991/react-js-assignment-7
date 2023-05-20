@@ -23,7 +23,7 @@ import {
   Desc,
   Retry,
   NavLink,
-} from './styledComponents'
+} from './StyledComponents'
 
 const apiStatusConstants = {
   initial: 'INITIAL',

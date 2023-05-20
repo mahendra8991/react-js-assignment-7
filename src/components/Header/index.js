@@ -24,7 +24,7 @@ import {
   ModalDesc,
   AlignColumn,
   ContentListItem,
-} from './styledComponents'
+} from './StyledComponents'
 
 import CartContext from '../../context/CartContext'
 

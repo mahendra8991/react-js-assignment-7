@@ -8,7 +8,7 @@ import {
   VideoDetailsContainer,
   VideoDetailsText,
   NavLink,
-} from './styledComponents'
+} from './StyledComponents'
 
 const VideoCard = props => {
   const {details} = props

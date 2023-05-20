@@ -17,7 +17,7 @@ import {
   ModalContainer,
   GetItNowButton,
   BannerImageContainer,
-} from './styledComponents'
+} from './StyledComponents'
 
 import SideBar from '../SideBar'
 

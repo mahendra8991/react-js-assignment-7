@@ -1,4 +1,4 @@
-import {NotFoundContainer, Heading, Desc, Image} from './styledComponents'
+import {NotFoundContainer, Heading, Desc, Image} from './StyledComponents'
 // import Header from '../Header'
 import CartContext from '../../context/CartContext'
 

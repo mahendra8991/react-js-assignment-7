@@ -14,7 +14,7 @@ import {
   ShowHideContainer,
   ErrorMessage,
   CheckboxInput,
-} from './styledComponents'
+} from './StyledComponents'
 
 class LoginForm extends Component {
   state = {

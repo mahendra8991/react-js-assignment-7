@@ -16,7 +16,7 @@ import {
   IconsContainer,
   IconImage,
   NavLink,
-} from './styledComponents'
+} from './StyledComponents'
 
 class SideBar extends Component {
   renderStatusItems = () => (
